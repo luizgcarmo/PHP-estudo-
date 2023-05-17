@@ -1,0 +1,3 @@
+<?php
+
+Define("COURSE","FSPHP");
